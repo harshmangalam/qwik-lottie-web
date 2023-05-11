@@ -1,5 +1,10 @@
 lockfileVersion: '6.0'
 
+dependencies:
+  lottie-web:
+    specifier: ^5.11.0
+    version: 5.11.0
+
 devDependencies:
   '@builder.io/qwik':
     specifier: 1.1.1
@@ -2347,6 +2352,10 @@ packages:
       cli-cursor: 2.1.0
       wrap-ansi: 3.0.1
     dev: true
+
+  /lottie-web@5.11.0:
+    resolution: {integrity: sha512-9vSt0AtdOH98GKDXwD5LPfFg9Pcmxt5+1BllAbudKM5iqPxpJnJUfuGaP45OyudDrESCOBgsjnntVUTygBNlzw==}
+    dev: false
 
   /lowercase-keys@1.0.1:
     resolution: {integrity: sha512-G2Lj61tXDnVFFOi8VZds+SoQjtQC3dgokKdDG2mTm1tx4m50NUHBOZSBwQQHyy0V12A0JTG4icfZQH+xPyh8VA==}
