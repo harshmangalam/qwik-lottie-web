@@ -1,7 +1,7 @@
 {
-  "name": "my-qwik-library-name",
-  "version": "0.0.1",
-  "description": "Create a reusable Qwik component library",
+  "name": "qwik-lottie-web",
+  "version": "1.0.0",
+  "description": "Qwikjs with lottie-web integration",
   "main": "./lib/index.qwik.mjs",
   "qwik": "./lib/index.qwik.mjs",
   "types": "./lib-types/index.d.ts",
@@ -12,10 +12,24 @@
       "types": "./lib-types/index.d.ts"
     }
   },
+  "contributors": [
+    "harshmangalam"
+  ],
+  "maintainers": [
+    "harshmangalam"
+  ],
+  "repository": {
+    "url": "https://github.com/harshmangalam/qwik-lottie-web"
+  },
+  "license": "MIT",
   "files": [
     "lib",
     "lib-types"
   ],
+  "author": {
+    "email": "harshdev8218@gmail.com",
+    "name": "Harsh Mangalam"
+  },
   "engines": {
     "node": ">=15.0.0"
   },

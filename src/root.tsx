@@ -7,7 +7,7 @@ export default component$(() => {
     <>
       <head>
         <meta charSet="utf-8" />
-        <title>Qwik Blank App</title>
+        <title>Qwik Lottie</title>
       </head>
       <body style={{ margin: "0px" }}>
         <div ref={container} style={{ height: "100vh" }}></div>
