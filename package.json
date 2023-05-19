@@ -1,6 +1,6 @@
 {
   "name": "qwik-lottie-web",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Qwikjs with lottie-web integration",
   "main": "./lib/index.qwik.mjs",
   "qwik": "./lib/index.qwik.mjs",
@@ -30,6 +30,10 @@
     "email": "harshdev8218@gmail.com",
     "name": "Harsh Mangalam"
   },
+  "keywords": [
+    "qwik",
+    "lottie-web"
+  ],
   "engines": {
     "node": ">=15.0.0"
   },
