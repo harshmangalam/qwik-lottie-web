@@ -1,6 +1,6 @@
 {
   "name": "qwik-lottie-web",
-  "version": "0.2.0",
+  "version": "0.4.0",
   "description": "Qwikjs with lottie-web integration",
   "main": "./lib/index.qwik.mjs",
   "qwik": "./lib/index.qwik.mjs",
